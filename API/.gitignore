@@ -1,0 +1,29 @@
+# Ignorar directorios generados por Node.js
+node_modules/
+dist/
+
+# Ignorar archivos y directorios específicos
+.env
+build/
+logs/
+
+# Ignorar archivos de respaldo y temporales
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignorar archivos de configuración personalizados
+config.js
+
+# Ignorar archivos generados por IDEs y editores de texto
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignorar archivos de compilación y distribución
+*.min.js
+*.min.css
+
+# Ignorar archivos de dependencias o módulos de desarrollo local
+devDependencies/

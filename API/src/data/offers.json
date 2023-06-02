@@ -1,0 +1,129 @@
+[
+  {
+    "id": "4a90a8be-99e2-4bfa-a532-ee81d92b6daa",
+    "loanType": "Personal Loan",
+    "amount": 5000,
+    "interestRate": 8.5,
+    "term": 24,
+    "provider": "Bank A",
+    "details": "Flexible repayment options available."
+  },
+  {
+    "id": "366f675f-1446-4d57-b6ce-19a2e74d840d",
+    "loanType": "Mortgage Loan",
+    "amount": 250000,
+    "interestRate": 4.2,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Low down payment and competitive interest rates."
+  },
+  {
+    "id": "e3a1e8d4-85bc-4ab5-b9d5-4c91e727086c",
+    "loanType": "Personal Loan",
+    "amount": 10000,
+    "interestRate": 9.2,
+    "term": 36,
+    "provider": "Bank A"
+  },
+  {
+    "id": "c5f6a0cd-4f3d-4c0a-946d-3e1e1459355e",
+    "loanType": "Student Loan",
+    "amount": 20000,
+    "interestRate": 6.8,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "No cosigner required for qualified applicants."
+  },
+  {
+    "id": "5c3d80d2-17f4-4b9f-84d4-df1a3f93c428",
+    "loanType": "Mortgage Loan",
+    "amount": 300000,
+    "interestRate": 4.5,
+    "term": 240,
+    "provider": "Bank B"
+  },
+  {
+    "id": "d3986c14-8f84-4a43-9f7e-d17d9fb7f895",
+    "loanType": "Personal Loan",
+    "amount": 8000,
+    "interestRate": 7.3,
+    "term": 48,
+    "provider": "Bank A",
+    "details": "Fast approval process and competitive rates."
+  },
+  {
+    "id": "712ba692-8a82-4b27-894d-15cc1dbb6054",
+    "loanType": "Student Loan",
+    "amount": 15000,
+    "interestRate": 6.5,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Flexible repayment options and grace period after graduation."
+  },
+  {
+    "id": "3f8f5961-550a-4f88-9637-3e5a232883c5",
+    "loanType": "Mortgage Loan",
+    "amount": 350000,
+    "interestRate": 4.3,
+    "term": 180,
+    "provider": "Bank E",
+    "details": "Variety of mortgage programs available."
+  },
+  {
+    "id": "5261e39c-24d0-4ae4-a0ff-85c431b6d2e0",
+    "loanType": "Personal Loan",
+    "amount": 6000,
+    "interestRate": 8.0,
+    "term": 60,
+    "provider": "Bank A"
+  },
+  {
+    "id": "df040e8f-b9af-4e08-9e43-79b25e27d0d0",
+    "loanType": "Mortgage Loan",
+    "amount": 200000,
+    "interestRate": 4.0,
+    "term": 300,
+    "provider": "Bank B",
+    "details": "Low closing costs and flexible repayment terms."
+  },
+  {
+    "id": "8f1605be-dc0d-40d5-854f-cfd02e034378",
+    "loanType": "Personal Loan",
+    "amount": 12000,
+    "interestRate": 9.8,
+    "term": 72,
+    "provider": "Bank A"
+  },
+  {
+    "id": "ff5f4763-53b2-46c2-98f2-8f0d045ba1b5",
+    "loanType": "Student Loan",
+    "amount": 18000,
+    "interestRate": 6.2,
+    "term": 96,
+    "provider": "Bank C"
+  },
+  {
+    "id": "6775be95-d1ab-4e33-9a26-98b6762868c3",
+    "loanType": "Mortgage Loan",
+    "amount": 250000,
+    "interestRate": 4.7,
+    "term": 360,
+    "provider": "Bank B"
+  },
+  {
+    "id": "4db99fc3-7d0e-4024-9f77-3054a71d2ed4",
+    "loanType": "Personal Loan",
+    "amount": 7000,
+    "interestRate": 7.8,
+    "term": 36,
+    "provider": "Bank A"
+  },
+  {
+    "id": "b8f58e99-30fc-47f7-b3ab-ccf269662e3c",
+    "loanType": "Student Loan",
+    "amount": 16000,
+    "interestRate": 6.0,
+    "term": 120,
+    "provider": "Bank D"
+  }
+]
