@@ -3,8 +3,8 @@ import { getOfferById, getOffers } from '../services/offers.services'
 
 const router = express.Router()
 
-router.get('/', (_, res, next) => {
-  const offers = getOffers()
+router.get('/quantity/:quantity', (req, res, next) => {
+  const offers = getOffers(parseInt(req.params.quantity))
   if (offers !== null && offers !== undefined) {
     res.status(200).send({
       status: 'success',

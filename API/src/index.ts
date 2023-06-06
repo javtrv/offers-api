@@ -1,9 +1,11 @@
 import express from 'express'
 import offersRouter from './routes/offers.route'
 import usersRouter from './routes/users.route'
+import cors from 'cors'
 
 const app = express()
 app.use(express.json())
+app.use(cors())
 
 app.use('/offers', offersRouter)
 app.use('/users', usersRouter)

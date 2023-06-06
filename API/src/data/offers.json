@@ -1,129 +1,569 @@
 [
   {
-    "id": "4a90a8be-99e2-4bfa-a532-ee81d92b6daa",
+    "id": "3c20c742-587f-453e-9e75-1e343e64d8e7",
     "loanType": "Personal Loan",
     "amount": 5000,
     "interestRate": 8.5,
     "term": 24,
     "provider": "Bank A",
-    "details": "Flexible repayment options available."
+    "details": "Get a personal loan of $5000 with an interest rate of 8.5% and a term of 24 months. Apply now!"
   },
   {
-    "id": "366f675f-1446-4d57-b6ce-19a2e74d840d",
-    "loanType": "Mortgage Loan",
+    "id": "b4e91347-3b34-4fc9-a5cc-ee7b39f71e5b",
+    "loanType": "Home Loan",
     "amount": 250000,
     "interestRate": 4.2,
     "term": 360,
     "provider": "Bank B",
-    "details": "Low down payment and competitive interest rates."
+    "details": "Looking to buy a new home? Bank B offers a home loan of $250000 with a low interest rate of 4.2%. Contact us for more details."
   },
   {
-    "id": "e3a1e8d4-85bc-4ab5-b9d5-4c91e727086c",
+    "id": "bbf078eb-8f3d-4e2a-b64f-d95e17a6f94f",
     "loanType": "Personal Loan",
     "amount": 10000,
     "interestRate": 9.2,
     "term": 36,
-    "provider": "Bank A"
+    "provider": "Bank A",
+    "details": "Need funds for a personal expense? Bank A provides a personal loan of $10000 with a competitive interest rate of 9.2%. Apply online now!"
   },
   {
-    "id": "c5f6a0cd-4f3d-4c0a-946d-3e1e1459355e",
+    "id": "a4d99233-9e67-4eb3-8802-c4a7d4024309",
     "loanType": "Student Loan",
     "amount": 20000,
     "interestRate": 6.8,
     "term": 120,
     "provider": "Bank C",
-    "details": "No cosigner required for qualified applicants."
+    "details": "Planning to pursue higher education? Bank C offers student loans with flexible repayment options. Borrow up to $20000 for your education."
   },
   {
-    "id": "5c3d80d2-17f4-4b9f-84d4-df1a3f93c428",
-    "loanType": "Mortgage Loan",
+    "id": "ecf1b5e1-0e5b-431f-9f3a-0de22db09b77",
+    "loanType": "Home Loan",
     "amount": 300000,
     "interestRate": 4.5,
     "term": 240,
-    "provider": "Bank B"
+    "provider": "Bank B",
+    "details": "Dreaming of owning a home? Bank B provides home loans with attractive interest rates. Get a loan of $300000 with flexible repayment terms."
   },
   {
-    "id": "d3986c14-8f84-4a43-9f7e-d17d9fb7f895",
+    "id": "a4d267ea-03a1-407e-b4fc-1398f0f3ee6e",
     "loanType": "Personal Loan",
     "amount": 8000,
     "interestRate": 7.3,
     "term": 48,
     "provider": "Bank A",
-    "details": "Fast approval process and competitive rates."
+    "details": "In need of immediate funds? Bank A offers personal loans up to $8000. Enjoy a quick and hassle-free loan approval process."
   },
   {
-    "id": "712ba692-8a82-4b27-894d-15cc1dbb6054",
+    "id": "d888f431-29ab-4f3d-9eaf-f6c06b26840e",
     "loanType": "Student Loan",
     "amount": 15000,
     "interestRate": 6.5,
     "term": 84,
     "provider": "Bank D",
-    "details": "Flexible repayment options and grace period after graduation."
+    "details": "Invest in your future with a student loan from Bank D. Borrow up to $15000 at a competitive interest rate of 6.5%. Start your education journey today!"
   },
   {
-    "id": "3f8f5961-550a-4f88-9637-3e5a232883c5",
-    "loanType": "Mortgage Loan",
-    "amount": 350000,
-    "interestRate": 4.3,
-    "term": 180,
-    "provider": "Bank E",
-    "details": "Variety of mortgage programs available."
-  },
-  {
-    "id": "5261e39c-24d0-4ae4-a0ff-85c431b6d2e0",
-    "loanType": "Personal Loan",
-    "amount": 6000,
-    "interestRate": 8.0,
+    "id": "ad23f0b4-39f0-4569-8bcf-7fbba4d1d50a",
+    "loanType": "Car Loan",
+    "amount": 35000,
+    "interestRate": 5.2,
     "term": 60,
-    "provider": "Bank A"
+    "provider": "Bank E",
+    "details": "Ready to hit the road in your dream car? Bank E offers car loans with attractive interest rates. Get up to $35000 for your new vehicle."
   },
   {
-    "id": "df040e8f-b9af-4e08-9e43-79b25e27d0d0",
-    "loanType": "Mortgage Loan",
-    "amount": 200000,
-    "interestRate": 4.0,
-    "term": 300,
-    "provider": "Bank B",
-    "details": "Low closing costs and flexible repayment terms."
-  },
-  {
-    "id": "8f1605be-dc0d-40d5-854f-cfd02e034378",
+    "id": "bf25018e-0791-48d2-9d68-138b7e3b8f57",
     "loanType": "Personal Loan",
     "amount": 12000,
     "interestRate": 9.8,
-    "term": 72,
-    "provider": "Bank A"
+    "term": 36,
+    "provider": "Bank C",
+    "details": "Bank C provides personal loans to meet your financial needs. Borrow up to $12000 with competitive interest rates. Apply online now!"
   },
   {
-    "id": "ff5f4763-53b2-46c2-98f2-8f0d045ba1b5",
+    "id": "c0ce4b65-3df3-4cde-86ce-9f97f8f0b1f0",
+    "loanType": "Home Loan",
+    "amount": 200000,
+    "interestRate": 4.0,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy your dream home? Bank B offers home loans with favorable interest rates. Borrow up to $200000 for your new house."
+  },
+  {
+    "id": "81268db5-24af-4a47-86c3-524207b9f0d6",
+    "loanType": "Car Loan",
+    "amount": 25000,
+    "interestRate": 4.8,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Own the car you've always wanted with a car loan from Bank E. Get competitive interest rates and borrow up to $25000. Apply now!"
+  },
+  {
+    "id": "1a6a0ad7-6153-452e-9f78-840d81e46f4d",
+    "loanType": "Personal Loan",
+    "amount": 6000,
+    "interestRate": 8.0,
+    "term": 24,
+    "provider": "Bank A",
+    "details": "Need funds for a personal expense? Bank A provides personal loans with flexible repayment terms. Borrow up to $6000 with competitive interest rates."
+  },
+  {
+    "id": "0abac42b-689e-4075-aaad-9ac76f9dbbfe",
     "loanType": "Student Loan",
     "amount": 18000,
-    "interestRate": 6.2,
-    "term": 96,
-    "provider": "Bank C"
+    "interestRate": 7.0,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Invest in your education with a student loan from Bank C. Get financial support for your studies. Borrow up to $18000."
   },
   {
-    "id": "6775be95-d1ab-4e33-9a26-98b6762868c3",
-    "loanType": "Mortgage Loan",
-    "amount": 250000,
-    "interestRate": 4.7,
+    "id": "c67b564a-11d1-44f6-aa0a-0e4a2997e0a3",
+    "loanType": "Home Loan",
+    "amount": 350000,
+    "interestRate": 4.3,
     "term": 360,
-    "provider": "Bank B"
+    "provider": "Bank B",
+    "details": "Looking to buy your dream home? Bank B offers home loans with favorable interest rates. Borrow up to $350000 for your new house."
   },
   {
-    "id": "4db99fc3-7d0e-4024-9f77-3054a71d2ed4",
+    "id": "e86bc237-9e29-4c81-bdc1-d7b2e6b4f831",
+    "loanType": "Personal Loan",
+    "amount": 9000,
+    "interestRate": 9.5,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A provides personal loans to meet your financial needs. Borrow up to $9000 with competitive interest rates and flexible repayment options."
+  },
+  {
+    "id": "e728ab70-1980-431a-a2fb-422fa9e4ce7d",
+    "loanType": "Car Loan",
+    "amount": 30000,
+    "interestRate": 5.0,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Drive away with your dream car. Bank E offers car loans with attractive interest rates and flexible terms. Borrow up to $30000."
+  },
+  {
+    "id": "3f928b5b-0c1c-4197-b8fe-0c3a6de95b75",
     "loanType": "Personal Loan",
     "amount": 7000,
     "interestRate": 7.8,
-    "term": 36,
-    "provider": "Bank A"
+    "term": 48,
+    "provider": "Bank C",
+    "details": "Need funds for personal expenses? Bank C provides personal loans with competitive interest rates. Borrow up to $7000 and fulfill your financial needs."
   },
   {
-    "id": "b8f58e99-30fc-47f7-b3ab-ccf269662e3c",
+    "id": "d79e02f7-4055-44f9-9b6e-20b7d1d2df3a",
     "loanType": "Student Loan",
-    "amount": 16000,
+    "amount": 25000,
+    "interestRate": 6.2,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Bank D offers student loans with competitive interest rates. Get financial support for your education. Borrow up to $25000."
+  },
+  {
+    "id": "f3d15683-54d9-482b-bbbb-91a54d06b9ed",
+    "loanType": "Home Loan",
+    "amount": 400000,
+    "interestRate": 4.6,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Make your dream of owning a home a reality. Bank B provides home loans with attractive interest rates. Borrow up to $400000 for your new house."
+  },
+  {
+    "id": "74f7225b-eb2b-4aa2-a240-24251f551b0e",
+    "loanType": "Personal Loan",
+    "amount": 11000,
+    "interestRate": 9.0,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A offers personal loans to meet your financial needs. Borrow up to $11000 with competitive interest rates and flexible repayment terms."
+  },
+  {
+    "id": "e4da06e6-8c4e-4e6d-b21c-1edcd4212075",
+    "loanType": "Car Loan",
+    "amount": 20000,
+    "interestRate": 4.5,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Drive your dream car with a car loan from Bank E. Get competitive interest rates and borrow up to $20000 for your new vehicle."
+  },
+  {
+    "id": "689d6b14-64ff-46a1-80b0-1bda8ae61f61",
+    "loanType": "Student Loan",
+    "amount": 22000,
     "interestRate": 6.0,
     "term": 120,
-    "provider": "Bank D"
+    "provider": "Bank C",
+    "details": "Invest in your education with a student loan from Bank C. Get financial support for your studies. Borrow up to $22000."
+  },
+  {
+    "id": "be155c89-7f41-413e-a790-331c41c41e7b",
+    "loanType": "Home Loan",
+    "amount": 500000,
+    "interestRate": 4.8,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy a new home? Bank B offers home loans with competitive interest rates. Borrow up to $500000 and make your dream come true."
+  },
+  {
+    "id": "8a334ed5-c62e-4c1d-8d35-41e3e3cb24ef",
+    "loanType": "Personal Loan",
+    "amount": 13000,
+    "interestRate": 9.3,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Need funds for personal expenses? Bank A provides personal loans with competitive interest rates. Borrow up to $13000 and fulfill your financial needs."
+  },
+  {
+    "id": "c3f1ed89-d69d-4747-8d2b-2bc0f2a4d5df",
+    "loanType": "Car Loan",
+    "amount": 18000,
+    "interestRate": 4.2,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Drive away with your dream car. Bank E offers car loans with attractive interest rates and flexible terms. Borrow up to $18000."
+  },
+  {
+    "id": "f186ab51-3c75-47b9-8a4c-3b64ee218276",
+    "loanType": "Student Loan",
+    "amount": 20000,
+    "interestRate": 5.8,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Invest in your education with a student loan from Bank D. Get financial support for your studies. Borrow up to $20000."
+  },
+  {
+    "id": "fa8f0c6b-3c8b-45d0-8b59-7000f7b8d7d5",
+    "loanType": "Home Loan",
+    "amount": 600000,
+    "interestRate": 5.0,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Bank B offers home loans with favorable interest rates. Borrow up to $600000 for your new house and turn your dream into reality."
+  },
+  {
+    "id": "8a123ede-913f-4e97-b4c6-3b6e54140a6c",
+    "loanType": "Personal Loan",
+    "amount": 15000,
+    "interestRate": 9.5,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A provides personal loans to meet your financial needs. Borrow up to $15000 with competitive interest rates and flexible repayment terms."
+  },
+  {
+    "id": "c53a9e72-66e0-4e0d-a04d-1c8a8de8bc5d",
+    "loanType": "Car Loan",
+    "amount": 25000,
+    "interestRate": 5.5,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Get on the road with a car loan from Bank E. We offer competitive interest rates and flexible repayment options. Borrow up to $25000 for your dream car."
+  },
+  {
+    "id": "ef42639e-3482-4a34-b4c5-1f89b7b29e08",
+    "loanType": "Student Loan",
+    "amount": 23000,
+    "interestRate": 5.5,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Bank C offers student loans with competitive interest rates. Get financial support for your education. Borrow up to $23000."
+  },
+  {
+    "id": "10b11729-c1ef-4c16-9647-d0450cc6b723",
+    "loanType": "Home Loan",
+    "amount": 700000,
+    "interestRate": 5.2,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy your dream home? Bank B offers home loans with competitive interest rates. Borrow up to $700000 and make your dream a reality."
+  },
+  {
+    "id": "847f755e-8db7-4b6a-88c1-0e891c1be0d6",
+    "loanType": "Personal Loan",
+    "amount": 17000,
+    "interestRate": 9.8,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Need funds for personal expenses? Bank A provides personal loans with competitive interest rates. Borrow up to $17000 and fulfill your financial needs."
+  },
+  {
+    "id": "c2eae91d-4a2f-4f14-b950-b9e5d496c19f",
+    "loanType": "Car Loan",
+    "amount": 22000,
+    "interestRate": 5.0,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Drive your dream car with a car loan from Bank E. Get competitive interest rates and borrow up to $22000. Apply online now!"
+  },
+  {
+    "id": "ef8573e9-3d07-46c5-8943-23e1362df724",
+    "loanType": "Student Loan",
+    "amount": 25000,
+    "interestRate": 5.0,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Invest in your education with a student loan from Bank D. Get financial support for your studies. Borrow up to $25000 and pursue your dreams."
+  },
+  {
+    "id": "6eb0d7ae-31a7-4321-9f4a-3a0a27702bb5",
+    "loanType": "Home Loan",
+    "amount": 800000,
+    "interestRate": 5.5,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Make your dream of owning a home a reality. Bank B provides home loans with competitive interest rates. Borrow up to $800000 and start a new chapter of your life."
+  },
+  {
+    "id": "ba46457d-50b0-4d57-803a-0e64f2e7c07e",
+    "loanType": "Personal Loan",
+    "amount": 19000,
+    "interestRate": 10.0,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A offers personal loans to meet your financial needs. Borrow up to $19000 with competitive interest rates and flexible repayment options."
+  },
+  {
+    "id": "aa49a65e-5a48-434d-9a5d-4f4309925c12",
+    "loanType": "Car Loan",
+    "amount": 20000,
+    "interestRate": 4.8,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Own the car you've always wanted with a car loan from Bank E. Get competitive interest rates and borrow up to $20000. Apply now!"
+  },
+  {
+    "id": "25f82c75-7090-4f85-a2f5-8d63b9c7755a",
+    "loanType": "Student Loan",
+    "amount": 27000,
+    "interestRate": 4.8,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Invest in your education with a student loan from Bank C. Get financial support for your studies. Borrow up to $27000 and pave your way to success."
+  },
+  {
+    "id": "748d3f57-9c4b-4934-8d5a-06a0385e7c2d",
+    "loanType": "Home Loan",
+    "amount": 900000,
+    "interestRate": 5.8,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy a new home? Bank B offers home loans with competitive interest rates. Borrow up to $900000 and make your dream home a reality."
+  },
+  {
+    "id": "d7c53c8b-83a5-4e81-a5f0-275cf0796b4a",
+    "loanType": "Personal Loan",
+    "amount": 21000,
+    "interestRate": 10.2,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Need funds for personal expenses? Bank A provides personal loans with competitive interest rates. Borrow up to $21000 and meet your financial needs."
+  },
+  {
+    "id": "7537c0ab-020d-4e85-9354-6db2e772f120",
+    "loanType": "Car Loan",
+    "amount": 28000,
+    "interestRate": 4.5,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Drive away with your dream car. Bank E offers car loans with attractive interest rates and flexible terms. Borrow up to $28000 and enjoy the ride."
+  },
+  {
+    "id": "3fe481eb-7a06-403e-8b5f-8a3fd49973d6",
+    "loanType": "Student Loan",
+    "amount": 29000,
+    "interestRate": 4.5,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Bank D offers student loans with competitive interest rates. Get financial support for your education. Borrow up to $29000 and invest in your future."
+  },
+  {
+    "id": "19e220a6-dad1-4392-9d78-3b82d5b2607e",
+    "loanType": "Home Loan",
+    "amount": 1000000,
+    "interestRate": 6.0,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Make your dream of owning a home a reality. Bank B provides home loans with attractive interest rates. Borrow up to $1000000 and build your future."
+  },
+  {
+    "id": "6b754af7-5056-4fe9-a001-1768e65188ff",
+    "loanType": "Personal Loan",
+    "amount": 23000,
+    "interestRate": 10.5,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A offers personal loans to meet your financial needs. Borrow up to $23000 with competitive interest rates and flexible repayment terms."
+  },
+  {
+    "id": "6b8f6e72-3ed7-4e20-9b75-124b61a33b85",
+    "loanType": "Car Loan",
+    "amount": 30000,
+    "interestRate": 4.2,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Drive your dream car with a car loan from Bank E. Get competitive interest rates and borrow up to $30000. Apply online now!"
+  },
+  {
+    "id": "64e2f281-b75b-4c67-826d-cb5c7cbe06fd",
+    "loanType": "Student Loan",
+    "amount": 31000,
+    "interestRate": 4.2,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Invest in your education with a student loan from Bank C. Get financial support for your studies. Borrow up to $31000 and unlock your potential."
+  },
+  {
+    "id": "0dabf258-f6e7-4ff1-a748-64c260877335",
+    "loanType": "Home Loan",
+    "amount": 1100000,
+    "interestRate": 6.5,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy a new home? Bank B offers home loans with competitive interest rates. Borrow up to $1100000 and make your dream home a reality."
+  },
+  {
+    "id": "dfc73262-944b-4f76-9760-f0c1f1811e57",
+    "loanType": "Personal Loan",
+    "amount": 25000,
+    "interestRate": 11.0,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Need funds for personal expenses? Bank A provides personal loans with competitive interest rates. Borrow up to $25000 and meet your financial goals."
+  },
+  {
+    "id": "f7d6e1ae-3431-4b0b-86a6-2799f1882db9",
+    "loanType": "Car Loan",
+    "amount": 32000,
+    "interestRate": 3.8,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Own the car you've always wanted with a car loan from Bank E. Get competitive interest rates and borrow up to $32000. Apply now and drive away in style!"
+  },
+  {
+    "id": "60e4f4e1-66d2-4c80-8f3a-48d29abf05c7",
+    "loanType": "Student Loan",
+    "amount": 33000,
+    "interestRate": 3.8,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Invest in your education with a student loan from Bank D. Get financial support for your studies. Borrow up to $33000 and pave your way to success."
+  },
+  {
+    "id": "b5f4d56c-3f8a-4bdf-b5e7-947a8d7df8fb",
+    "loanType": "Home Loan",
+    "amount": 1200000,
+    "interestRate": 7.0,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Make your dream of owning a home a reality. Bank B offers home loans with competitive interest rates. Borrow up to $1200000 and build your future."
+  },
+  {
+    "id": "1805a34e-9c7a-49fd-a12a-73311ad62310",
+    "loanType": "Personal Loan",
+    "amount": 27000,
+    "interestRate": 11.5,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A provides personal loans to meet your financial needs. Borrow up to $27000 with competitive interest rates and flexible repayment options."
+  },
+  {
+    "id": "5beba6dd-d0fd-4a12-9f6e-4e5a86aa019e",
+    "loanType": "Car Loan",
+    "amount": 34000,
+    "interestRate": 3.5,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Drive away with your dream car. Bank E offers car loans with attractive interest rates and flexible terms. Borrow up to $34000 and enjoy the ride."
+  },
+  {
+    "id": "7a7b75c2-8f56-4b2d-a71e-5eaeac8a2c61",
+    "loanType": "Student Loan",
+    "amount": 35000,
+    "interestRate": 3.5,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Bank C offers student loans with competitive interest rates. Get financial support for your education. Borrow up to $35000 and invest in your future."
+  },
+  {
+    "id": "32ddc430-02d9-47c6-9e4c-c616f2afcfb7",
+    "loanType": "Home Loan",
+    "amount": 1300000,
+    "interestRate": 7.5,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy your dream home? Bank B offers home loans with competitive interest rates. Borrow up to $1300000 and make your dream a reality."
+  },
+  {
+    "id": "7cda16d4-9335-43a4-bddf-0801f97149e9",
+    "loanType": "Personal Loan",
+    "amount": 29000,
+    "interestRate": 12.0,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Need funds for personal expenses? Bank A provides personal loans with competitive interest rates. Borrow up to $29000 and fulfill your financial needs."
+  },
+  {
+    "id": "eb6d5ac0-6c88-4e29-a6ff-141b53f420ae",
+    "loanType": "Car Loan",
+    "amount": 36000,
+    "interestRate": 3.2,
+    "term": 48,
+    "provider": "Bank E",
+    "details": "Drive your dream car with a car loan from Bank E. Get competitive interest rates and borrow up to $36000. Apply online now!"
+  },
+  {
+    "id": "2e2a63e7-7fb1-44a8-9576-6189a4ef3438",
+    "loanType": "Student Loan",
+    "amount": 37000,
+    "interestRate": 3.2,
+    "term": 84,
+    "provider": "Bank D",
+    "details": "Invest in your education with a student loan from Bank D. Get financial support for your studies. Borrow up to $37000 and unlock your potential."
+  },
+  {
+    "id": "200449e7-9fe4-4d5f-a092-c8db7d399f42",
+    "loanType": "Home Loan",
+    "amount": 1400000,
+    "interestRate": 8.0,
+    "term": 240,
+    "provider": "Bank B",
+    "details": "Make your dream of owning a home a reality. Bank B offers home loans with attractive interest rates. Borrow up to $1400000 and start a new chapter."
+  },
+  {
+    "id": "0d1cb4d9-4f05-4d3f-aeb0-3f9791539d02",
+    "loanType": "Personal Loan",
+    "amount": 31000,
+    "interestRate": 12.5,
+    "term": 36,
+    "provider": "Bank A",
+    "details": "Bank A offers personal loans to meet your financial needs. Borrow up to $31000 with competitive interest rates and flexible repayment terms."
+  },
+  {
+    "id": "d5a91c3c-4e36-47c1-91c1-b7ea36bea319",
+    "loanType": "Car Loan",
+    "amount": 38000,
+    "interestRate": 2.8,
+    "term": 60,
+    "provider": "Bank E",
+    "details": "Own the car you've always wanted with a car loan from Bank E. Get competitive interest rates and borrow up to $38000. Apply now and drive away in style!"
+  },
+  {
+    "id": "a1e0407b-1f1b-46d7-8ce2-5e4d413a6387",
+    "loanType": "Student Loan",
+    "amount": 39000,
+    "interestRate": 2.8,
+    "term": 120,
+    "provider": "Bank C",
+    "details": "Invest in your education with a student loan from Bank C. Get financial support for your studies. Borrow up to $39000 and pave your way to success."
+  },
+  {
+    "id": "6be4a8d6-09ac-4db6-8e24-5c0ff29f366f",
+    "loanType": "Home Loan",
+    "amount": 1500000,
+    "interestRate": 8.5,
+    "term": 360,
+    "provider": "Bank B",
+    "details": "Looking to buy a new home? Bank B offers home loans with competitive interest rates. Borrow up to $1500000 and make your dream home a reality."
   }
 ]
